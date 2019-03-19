@@ -13,6 +13,6 @@ Equipe
 - [Gabriel Cavalcanti](https://github.com/GabrielCavalcanti13) (gcm2)
 - [Isac Tomaz](https://github.com/isacits) (its)
 - _[Pedro Rodolfo](https://github.com/prgs1) (prgs)_\*
-- Tiago Oliveira (tos)
+- [Tiago Oliveira](https://github.com/srctwd) (tos)
 
 \* _Gerente do Projeto_
