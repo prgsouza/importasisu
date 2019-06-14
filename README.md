@@ -24,4 +24,5 @@ Ferramentas utilizadas no desenvolvimento do projeto:
 - [Github - Repositório de Artefatos](https://github.com/prgs1/importasisu)
 - [Trello - Gerenciamento de Tarefas](https://trello.com/b/TWBTN3HA/importasisu-sge-gpn-pgp)
 - [Discord - Comunicação](https://pt.wikipedia.org/wiki/Discord)
-- Bizagi Modeler - Modelagem
+- [Bizagi Modeler - Modelagem BPMN](https://bizagi.sharefile.com)
+- [piStar - Modelagem i*](https://www.cin.ufpe.br/~jhcp/pistar/)
